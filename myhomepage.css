@@ -1,0 +1,23 @@
+body {
+    padding-top: 20px;
+    background-image: url(LINE_ALBUM_220402.jpg);
+    background-repeat: repeat;
+    max-width: 100%;
+    height: auto;
+    font-family: Meiryo;
+    }
+
+h1 {
+    font-size: 50;
+}
+body #code {
+    width: 300px;
+    padding: 20px;
+    font-size: 28;
+}
+body #status {
+    font-size: 18;
+}
+body #list1 {
+    color: #66cdee;
+}
