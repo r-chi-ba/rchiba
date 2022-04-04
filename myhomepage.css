@@ -16,7 +16,7 @@ body #container {
     padding: 20px;
     display: grid;
     /*grid-template-rows: 100px 100px ;*/
-    grid-template-columns: 400px 400px 400px;
+    grid-template-columns: 300px 300px 300px;
 }
 
 body #item1 {
@@ -25,6 +25,10 @@ body #item1 {
 
 body #item2 {
     grid-column: 2 / 3;
+}
+
+body #item3 {
+    grid-column: 3 / 4;
 }
 
 body #status {
@@ -47,10 +51,18 @@ body #research_list {
     color: #66cdee;
 }
 
+body #others_list {
+    color: #66cdee;
+}
+
 body #c_list1 {
     color: #66cdee;
 }
 
 body #r_list1 {
+    color: #66cdee;
+}
+
+body #o_list1 {
     color: #66cdee;
 }
